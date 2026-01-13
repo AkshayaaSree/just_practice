@@ -1,0 +1,125 @@
+name,category,area,rating,avg_cost,mood_tags
+Lalbagh Botanical Garden,Park,Jayanagar,4.8,0,Relaxed|Calm|Happy
+Cubbon Park,Park,Ashok Nagar,4.7,0,Relaxed|Calm|Happy
+Bannerghatta National Park,Park,Bannerghatta Road,4.6,800,Adventurous|Happy
+Ulsoor Lake,View Point,Ulsoor,4.4,0,Relaxed|Romantic
+Nandi Hills,View Point,Nandi Hills,4.7,200,Adventurous|Romantic|Happy
+ISKCON Temple,Temple,Rajajinagar,4.8,0,Relaxed|Spiritual|Calm
+Bull Temple,Temple,Basavanagudi,4.7,0,Relaxed|Spiritual|Calm
+Dodda Ganapathi Temple,Temple,Basavanagudi,4.6,0,Spiritual|Calm
+St. Mary's Basilica,Temple,Shivajinagar,4.5,0,Spiritual|Calm
+
+Toit,Brewery,Indiranagar,4.6,1800,Happy|Social
+Arbor Brewing Company,Brewery,Brigade Road,4.5,1700,Happy|Social
+Windmills Craftworks,Brewery,Whitefield,4.6,2000,Romantic|Social
+Ironhill Brewery,Brewery,Marathahalli,4.4,1600,Happy|Social
+Biergarten,Brewery,Whitefield,4.3,1500,Social|Happy
+
+Cafe Coffee Day,Cafe,HSR Layout,4.2,400,Focused|Relaxed
+Third Wave Coffee,Cafe,Indiranagar,4.4,450,Focused|Relaxed
+Blue Tokai Coffee Roasters,Cafe,Indiranagar,4.5,500,Focused|Relaxed
+The Hole in the Wall Cafe,Cafe,HSR Layout,4.6,600,Happy|Relaxed
+Glen's Bakehouse,Cafe,Indiranagar,4.5,700,Romantic|Happy
+
+Truffles,Restaurant,Koramangala,4.6,800,Happy|Social
+Meghana Foods,Restaurant,Indiranagar,4.7,700,Happy|Social
+Empire Restaurant,Restaurant,Church Street,4.4,600,Social|Happy
+Vidyarthi Bhavan,Restaurant,Basavanagudi,4.8,150,Happy|Relaxed
+MTR Restaurant,Restaurant,Lalbagh Road,4.7,300,Relaxed|Happy
+
+Social Offline,Restaurant Bar,Church Street,4.5,1500,Social|Happy
+Hard Rock Cafe,Restaurant Bar,St. Marks Road,4.4,1800,Social|Happy
+Skyye Lounge,Bar,UB City,4.3,2500,Romantic|Social
+High Ultra Lounge,Bar,Malleswaram,4.5,2600,Romantic|Social
+Church Street Social,Restaurant Bar,Church Street,4.6,1400,Social|Happy
+
+Koramangala Social,Restaurant Bar,Koramangala,4.5,1400,Social|Happy
+Byg Brewski Brewing Company,Brewery,Hennur,4.6,2000,Social|Happy
+Shiro Restaurant,Restaurant,UB City,4.5,2500,Romantic
+Olive Beach,Restaurant,Ashok Nagar,4.6,3000,Romantic
+Grasshopper Restaurant,Restaurant,Bannerghatta Road,4.4,3500,Romantic
+
+Innovative Film City,Theme Park,Bidadi,4.2,1200,Adventurous|Happy
+Wonderla Amusement Park,Theme Park,Mysore Road,4.6,1500,Adventurous|Happy
+Ramanagara Hills,Tourist Spot,Ramanagara,4.5,0,Adventurous|Romantic
+Turahalli Forest,Forest,Turahalli,4.4,0,Adventurous|Relaxed
+
+HSR BDA Complex,Park,HSR Layout,4.3,0,Relaxed|Happy
+Agara Lake,View Point,HSR Layout,4.4,0,Relaxed|Romantic
+Kaikondrahalli Lake,View Point,Sarjapur Road,4.5,0,Relaxed|Romantic
+JP Park,Park,Mathikere,4.3,0,Relaxed|Happy
+
+National Gallery of Modern Art,Museum,Palace Road,4.6,20,Focused|Relaxed
+Visvesvaraya Industrial Museum,Museum,Cubbon Road,4.5,50,Focused|Happy
+HAL Aerospace Museum,Museum,HAL,4.4,50,Focused|Happy
+
+Indian Institute of Science,Campus,Malleswaram,4.8,0,Focused|Relaxed
+Atta Galatta Bookstore,Bookstore,Indiranagar,4.5,400,Focused|Calm
+Blossoms Book House,Bookstore,Church Street,4.7,500,Focused|Relaxed
+Dialogues Cafe,Cafe,JP Nagar,4.4,600,Focused|Relaxed
+
+Church Street,Street,Church Street,4.7,0,Social|Happy
+Brigade Road,Street,Brigade Road,4.6,0,Social|Happy
+Commercial Street,Street,Commercial Street,4.5,0,Social|Happy
+UB City Mall,Mall,UB City,4.6,0,Social|Romantic
+Orion Mall,Mall,Rajajinagar,4.5,0,Social|Happy
+Avalahalli Forest,Forest,Yelahanka,4.4,0,Relaxed|Adventurous
+Madiwala Lake,View Point,Madiwala,4.2,0,Relaxed|Romantic
+Puttenahalli Lake,View Point,JP Nagar,4.5,0,Relaxed|Calm
+Turahalli Forest Trail,Forest,Kanakapura Road,4.5,0,Adventurous|Relaxed
+Hesaraghatta Grasslands,View Point,Hesaraghatta,4.6,0,Relaxed|Romantic
+
+Nrityagram Dance Village,Cultural Space,Hesaraghatta,4.7,500,Focused|Relaxed
+Jagriti Theatre,Cultural Space,Whitefield,4.6,400,Focused|Happy
+Ranga Shankara Theatre,Theatre,JP Nagar,4.8,300,Focused|Happy
+Shoonya Centre for Art,Yoga Center,JP Nagar,4.5,600,Calm|Focused
+
+Go Native Cafe,Cafe,JP Nagar,4.4,600,Relaxed|Focused
+Cafe Thulp,Cafe,JP Nagar,4.5,500,Happy|Relaxed
+Cafe Azzure,Cafe,Bannerghatta Road,4.3,600,Romantic|Relaxed
+Matteo Coffea,Cafe,Church Street,4.6,550,Focused|Relaxed
+DYU Art Cafe,Cafe,Koramangala,4.6,700,Romantic|Happy
+
+Smoke House Deli,Restaurant,Indiranagar,4.4,1600,Romantic|Social
+Yauatcha,Restaurant,MG Road,4.5,2500,Romantic|Social
+Grasshopper Restaurant,Restaurant,Bannerghatta Road,4.4,3500,Romantic
+Karavalli,Restaurant,Residency Road,4.7,3000,Romantic|Relaxed
+Shabari Vegetarian,Restaurant,JP Nagar,4.6,400,Relaxed|Focused
+
+Chunchi Falls,Waterfall,Kanakapura Road,4.5,0,Adventurous|Romantic
+Makalidurga Trek,Trek,Makalidurga,4.6,300,Adventurous|Happy
+Skandagiri Sunrise Trek,Trek,Chikkaballapur,4.7,500,Adventurous|Romantic
+Savandurga Hill,Trek,Savandurga,4.6,0,Adventurous|Happy
+
+Agara Forest Walk,Forest,HSR Layout,4.4,0,Relaxed|Focused
+Begur Fort,Historic Site,Begur,4.2,0,Focused|Calm
+Devanahalli Fort,Historic Site,Devanahalli,4.4,0,Focused|Happy
+Tipu Sultan’s Summer Palace,Historic Site,KR Market,4.5,20,Focused|Happy
+
+Bugle Rock Park,Park,Basavanagudi,4.5,0,Relaxed|Happy
+JP Park Musical Fountain,Park,Mathikere,4.3,0,Relaxed|Happy
+Freedom Park,Park,Gandhi Nagar,4.4,0,Relaxed|Focused
+Cariappa Memorial Park,Park,Indiranagar,4.3,0,Relaxed|Happy
+
+Atta Galatta Bookstore,Bookstore,Indiranagar,4.5,400,Focused|Calm
+Champaca Bookstore,Bookstore,Richmond Road,4.6,500,Focused|Relaxed
+Lahe Lahe,Cafe,Indiranagar,4.4,600,Focused|Calm
+Dialogues Cafe,Cafe,JP Nagar,4.4,600,Focused|Relaxed
+
+Thottikallu Falls,Waterfall,Kanakapura Road,4.4,0,Adventurous|Romantic
+Hennur Bamboo Forest,Forest,Hennur,4.2,0,Relaxed|Adventurous
+Sankey Tank Lake,View Point,Malleswaram,4.6,0,Relaxed|Romantic
+Jakkur Lake,View Point,Jakkur,4.4,0,Relaxed|Calm
+
+Kaikondrahalli Lake Walk,View Point,Sarjapur Road,4.5,0,Relaxed|Romantic
+Ulsoor Lake Walk,View Point,Ulsoor,4.3,0,Relaxed|Calm
+Dodda Alada Mara,Historic Tree,Kengeri,4.4,0,Relaxed|Focused
+
+Cafe Noir,Cafe,Indiranagar,4.3,650,Happy|Social
+Fenny’s Lounge,Restaurant Bar,Koramangala,4.4,1800,Social|Happy
+XOOX Brewmill,Brewery,Electronics City,4.3,1500,Social|Happy
+Brooks and Bonds Brewery,Brewery,Indiranagar,4.4,1700,Social|Happy
+
+Indian Music Experience Museum,Museum,JP Nagar,4.7,250,Focused|Happy
+HAL Heritage Centre,Museum,HAL,4.5,50,Focused|Happy
+Karnataka Chitrakala Parishath,Art Gallery,Kumara Krupa Road,4.6,30,Focused|Relaxed
